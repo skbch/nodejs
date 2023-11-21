@@ -111,6 +111,7 @@ cctv6(4k),http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/22
 审死官,https://ukzy.ukubf4.com/20220407/OxgWrcNR/index.m3u8
 望夫成龙,https://hnzy.bfvvs.com/play/YaOEOQdx/index.m3u8#https://hnzy.bfvvs.com/play/QeZw58ap/index.m3u8
 济公,https://hnzy.bfvvs.com/play/DbDZxyel/index.m3u8
+西游记之月光宝盒,https://hnzy.bfvvs.com/play/yb8qRLdv/index.m3u8
 
 影视轮播,#genre#
 士兵突击,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c35ee2ffbce3046c8e49f60139979208&wsTime=61c072a8&uid=581998485&seqid=1640520616000.0&t=103&uuid=3032381390&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000#https://epg.112114.xyz/huya/11342430
