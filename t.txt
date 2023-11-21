@@ -2,8 +2,8 @@
 K直播,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6uyj4QUosO5G.mp4
 
 🇨🇳｜央视直播,#genre#
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
@@ -568,93 +568,3 @@ https://cn-jssz-cm-02-44.bilivideo.com/live-bvc/164403/live_194707653_5399055_15
 
 
 
-
-🇨🇳｜其它,#genre#
-东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
-CCT-V风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-教育卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
-家有购物,http://hls.live.cqccn.com/__cl/cg:live/__c/jygw/__op/default/__f/index.m3u8
-书画,http://hls.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8
-摄影,http://hls.live.cqccn.com/__cl/cg:live/__c/sheying/__op/default/__f/index.m3u8
-车迷频道,http://hls.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f/index.m3u8
-求索纪录,http://hls.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
-天威TVG,http://111.221.137.154:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-Channel [V],http://111.221.137.154:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
-上海卫视,http://111.221.137.154:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-星空卫视,http://111.221.137.154:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
-旅游卫视,http://111.221.137.154:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-минимакс-flip UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/13057/index.m3u8
-Liberty KINOENG  UHD,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index.m3u8
-Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
-CETV1,http://live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-4K,http://live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-WWE+周二21点最新WWE+塞纳大布巅峰回放[重...,http://111.62.156.15/tx.flv.huya.com/src/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.flv?wsSecret=b795ac6b85c5853bf183ed1ceedd7bb5&wsTime=6283a6bd&u=0&seqid=16527086693872330&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
-WWE阿楠+WWE皇家大战,http://111.62.156.15/tx.flv.huya.com/src/1199529639195-1199529639195-5298974360239865856-2399059401846-10057-A-0-1.flv?wsSecret=f1c86a08cf2f5bbc53064326d93280a1&wsTime=6283a6c0&u=0&seqid=16527086725405670&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&t=102
-德国足球甲级联赛副舞台+[20日附加赛]狼堡2_2...,http://111.62.156.15/tx.flv.huya.com/src/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.flv?wsSecret=c2e38d03edc12de816bf019b91c0f2fc&wsTime=6283aad0&u=0&seqid=16527097125395310&ctype=tars_mp&txyp=o%3Afz6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500，，，264_2000，，，&t=102
-虎牙斯克副舞台+[重播]决战时刻，2021_22...,http://111.62.156.15/tx.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.flv?wsSecret=808bc790a428bcc860dfcb4bd50ff8be&wsTime=6283a876&u=0&seqid=16527091105722740&ctype=tars_mp&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
-虎牙斯克视频精选+群雄逐鹿，斯克精彩赛事回放[...,http://111.62.156.15/tx.flv.huya.com/src/1099531627784-1099531627784-85899380279738368-2199063379024-10057-A-0-1.flv?wsSecret=c94c2392710252d1441a0a0682a076a6&wsTime=6283a884&u=0&seqid=16527091246105558&ctype=tars_mp&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500，，，264_2000，，，&t=102
-虎牙斯克+[16点Qschool]2021_22...,http://111.62.156.15/tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.flv?wsSecret=181655f2c2ace5527647e6f47e66cf3f&wsTime=6283a886&u=0&seqid=16527091263035970&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
-丁俊晖赛事专场+丁俊晖2022世锦赛全纪录+主任近...,http://111.62.156.15/tx.flv.huya.com/src/1447756352-1447756352-6218066184416264192-2895636160-10057-A-0-1.flv?wsSecret=9b8aed56aefb1abfb8ab2cddc8a3940f&wsTime=6283a887&u=0&seqid=16527091274093530&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500，，，&t=102
-乔氏台球于海涛vs王云+乔氏台球于海涛vs王云,http://111.62.156.15/tx.flv.huya.com/src/1099531739883-1099531739883-86380841818652672-2199063603222-10057-A-0-1.flv?wsSecret=97ffd84bdbdcbe9ac98fba5fe32c6f96&wsTime=6283a88b&u=0&seqid=16527091313200440&ctype=tars_mp&txyp=o%3Ad2%3B&fs=bgct&t=102
-febian冷静+[初阶]15分钟腹臀激活+·+3...,http://111.62.156.15/tx.flv.huya.com/src/1099531627834-1099531627834-85899595028103168-2199063379124-10057-A-0-1.flv?wsSecret=6d10818391515dc95665cdd6d0403ebc&wsTime=6283ada3&u=0&seqid=16527104351288468&ctype=tars_mp&fs=bgct&t=102
-特立独行+[中阶]全身循环+35X6组,http://111.62.156.15/tx.flv.huya.com/src/1099531627852-1099531627852-85899672337514496-2199063379160-10057-A-0-1.flv?wsSecret=b6fe54ed1ba2f8f410002a1e838ef2a7&wsTime=6283adaf&u=0&seqid=16527104477609020&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&t=102
-AIT_Live+D1飘移大奖赛++富士国际赛车场...,http://111.62.156.15/tx.flv.huya.com/src/1199605222659-1199605222659-5623602866238259200-2399210568774-10057-A-0-1.flv?wsSecret=c477f51aef4413cd4a3f184ae8bd3cb4&wsTime=6283af14&u=0&seqid=16527108046100522&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&t=102
-帅soserious+为了测评耳机，我去了趟沙漠....,http://111.62.156.15/tx.flv.huya.com/src/1299518413687-1299518413687-10472377075179192320-2599036950830-10057-A-0-1.flv?wsSecret=720ddd62eb38f2437662ee0f3fafe668&wsTime=6283b056&u=0&seqid=16527111260761080&ctype=tars_mp&txyp=o%3Anceic2%3B&fs=bgct&t=102
-中国职业棒球全垒打赛+中国职业棒球全垒打赛,http://111.62.156.15/tx.flv.huya.com/src/1099531739891-1099531739891-86380876178391040-2199063603238-10057-A-0-1.flv?wsSecret=ed44f97c35d637a689293b8b352ee8a9&wsTime=6283b056&u=0&seqid=16527111263048570&ctype=tars_mp&txyp=o%3Atyeic12%3B&fs=bgct&t=102
-磐石王陆奇+中国全甲格斗！,http://111.62.156.15/tx.flv.huya.com/src/513555159-513555159-2205702612597080064-1027233774-10057-A-0-1.flv?wsSecret=2a073cfe84bf3079aab0c482550e8cda&wsTime=6283b05d&u=0&seqid=16527111334632590&ctype=tars_mp&txyp=o%3Az16%3B&fs=bgct&t=102
-WEN鞋评+WEN鞋评：阿马鲁实战,http://111.62.156.15/tx.flv.huya.com/src/1279521726615-1279521726615-16820980441140953088-2559043576686-10057-A-0-1.flv?wsSecret=6ee47fdea5c02ca752813f2cdb31e479&wsTime=6283b062&u=0&seqid=16527111381855870&ctype=tars_mp&fs=bgct&t=102
-野行者+原始生存21天，生存挑战变相亲节目？,http://111.62.156.15/tx.flv.huya.com/src/1099531739795-1099531739795-86380463861530624-2199063603046-10057-A-0-1.flv?wsSecret=c4e4f376abb80ed8faea4f0ae4211819&wsTime=6283b155&u=0&seqid=16527113815878710&ctype=tars_mp&txyp=o%3Atyeic12%3B&fs=bgct&t=102
-河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
-
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-SiTV魅力足球,http://hls.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
-欢笑剧场4K,http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-南方卫视,http://111.221.137.154:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰纪实,http://live.aishang.ctlcdn.com/00000110240303_1/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-电影_怪兽系列,https://live.metshop.top/huya/21059554
-解说_老皮讲电影,https://live.metshop.top/huya/16968572
-剧集_地下交通站,https://live.metshop.top/huya/11342433
-四次元先生,https://live.goodiptv.club/api/huya.php?id=11602071
-老雷,https://live.goodiptv.club/api/huya.php?id=11602034
-小猪猪,https://live.goodiptv.club/api/huya.php?id=11342416
-唐唐科普,https://live.goodiptv.club/api/huya.php?id=20985846
-第十门,https://live.goodiptv.club/api/huya.php?id=11352883
-猛志百般红,https://live.goodiptv.club/api/huya.php?id=26355865
-龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
-鲁甸综合,http://livebroadcast.ccwb.cn/live/w1619693259142907.m3u8?zyund
-荥经综合,rtmp://drs.tv.yatv.tv:1935/channellive/yingjing?zsicd
-夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd
-沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01?zsicd
-祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd
-黔南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
-黔南公共,rtmp://tv.qntv.net/channellive/ch2?zguizd
-伊金霍洛新闻,rtmp://cms-play.yjhlnews.cn/live/vedio?zneimd
-克拉玛依汉语综合,https://klmyzb.rcsxzx.com/hls/klmy1.m3u8?zxinjd
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-欧洲华文6台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线财经资讯,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8#http://61.10.2.146/live_freedirect/freehd208_h.live/playlist.m3u8
-J2,http://r.jdshipin.com/ndGgS
-大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-服装时尚,http://player2.juyun.tv/camera/80238159.m3u8
-中央新影发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8?blog.ntnas.top
-中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?blog.ntnas.top
-中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
-农林卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-大湾区卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
-老电影,https://bp-caster.bestv.com.cn/934/3/video.m3u8
-秋水自制MV,http://zzy789.xyz/douyu1.php?id=9588891
-成龙[800x600],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34460526
-电影台54[800x600],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26623173
-电影台55[800x600],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29170933
-电影台57[800x600],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
-电影台62[800x600],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24921161
-电影台64[800x600],http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227
