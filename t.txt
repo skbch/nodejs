@@ -11,7 +11,7 @@ CCTV6,http://mqiptv.com:8014/ch/custom75/mqlive.m3u8
 CCTV7,http://mqiptv.com:8014/ch/custom74/mqlive.m3u8
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV9,http://mqiptv.com:8014/ch/custom72/mqlive.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?#http://live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+CCTV10,http://mqiptv.com:8014/ch/custom71/mqlive.m3u8
 CCTV11,http://mqiptv.com:8014/ch/custom70/mqlive.m3u8
 CCTV12,http://mqiptv.com:8014/ch/custom69/mqlive.m3u8
 
@@ -542,5 +542,4 @@ https://cn-jssz-cm-02-44.bilivideo.com/live-bvc/164403/live_194707653_5399055_15
 电影_死神来了,http://43.128.40.42:198/虎牙直播/huya.php?id=11352903
 电影_变形金刚,http://43.128.40.42:198/虎牙直播/huya.php?id=21059596
 电影_怪兽系列,http://43.128.40.42:198/虎牙直播/huya.php?id=21059554
-
 
