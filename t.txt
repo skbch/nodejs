@@ -47,8 +47,8 @@ CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/322
 四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
 海南卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
 甘肃卫视,http://120.196.232.47:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
-新疆卫视,http://222.175.159.226:808/hls/202368/index.m3u8
-西藏卫视,http://222.175.159.226:808/hls/202371/index.m3u8
+新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
+西藏卫视,http://221.2.36.34:8888/newlive/live/hls/37/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 河南卫视高清,http://222.175.159.226:808/hls/202361/index.m3u8
