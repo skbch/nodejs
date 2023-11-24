@@ -55,7 +55,7 @@ CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/322
 兵团卫视,http://222.175.159.226:808/hls/202376/index.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 内蒙古卫视,http://120.196.232.39:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
-吉林卫视,http://222.175.159.226:808/hls/202363/index.m3u8
+吉林卫视HD,http://gaox.vip:8888/rtp/239.49.8.187:6000
 陕西卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226707/1.m3u8
 
 周星驰经典,#genre#
