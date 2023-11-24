@@ -17,14 +17,14 @@ CCTV11戏曲,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/322122671
 CCTV12社会与法,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
 CCTV13新闻,http://gaox.vip:8888/rtp/239.49.9.43:6000
 CCTV14少儿,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
-CCTV15音乐,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
+CCTV15音乐,http://gaox.vip:8888/rtp/239.49.0.15:8112#http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
 CCTV16奥林匹克,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 
 
 卫视频道,#genre#
 浙江卫视,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
-江苏卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
+江苏卫视,http://gaox.vip:8888/rtp/239.49.8.138:6000#http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 安徽卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
 北京卫视,http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 东方卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
@@ -74,7 +74,6 @@ CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/322
 鹿鼎记,https://hnzy.bfvvs.com/play/PdyrY6eQ/index.m3u8
 鹿鼎记2之神龙教,https://hnzy.bfvvs.com/play/1aKvlxeQ/index.m3u8#https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 千王之王,https://hnzy.bfvvs.com/play/DbDvWnel/index.m3u8
-97家有喜事,https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
 雌雄双辣,https://hnzy.bfvvs.com/play/QeZVR6ep/index.m3u8
 审死官,https://ukzy.ukubf4.com/20220407/OxgWrcNR/index.m3u8
 望夫成龙,https://hnzy.bfvvs.com/play/YaOEOQdx/index.m3u8#https://hnzy.bfvvs.com/play/QeZw58ap/index.m3u8
