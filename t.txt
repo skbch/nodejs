@@ -79,9 +79,11 @@ CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/322
 望夫成龙,https://hnzy.bfvvs.com/play/YaOEOQdx/index.m3u8#https://hnzy.bfvvs.com/play/QeZw58ap/index.m3u8
 济公,https://hnzy.bfvvs.com/play/DbDZxyel/index.m3u8
 
-
-影视轮播,#genre#
+相声小品,#genre#
 赵本山小品,http://49.235.110.121:9090/898/peda/dyu.php?id=9817716
+陈佩斯,http://49.235.110.121:9090/898/peda/hy.php?id=20985776
+沈腾马丽,http://49.235.110.121:9090/898/peda/dyu.php?id=10153463
+影视轮播,#genre#
 士兵突击,http://49.235.110.121:9090/898/peda/hy.php?id=11342430
 地下交通站,http://49.235.110.121:9090/898/peda/hy.php?id=11342433
 康熙微服私访记,http://49.235.110.121:9090/898/peda/hy.php?id=11342418
