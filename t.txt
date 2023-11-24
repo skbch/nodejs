@@ -32,7 +32,7 @@ CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/322
 广东卫视,https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/0ff9a42344-0-0-0eb4f8fe53cdbc02d1db696ecc425752/index.m3u8
 广西卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226681/1.m3u8
 河北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
-河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
+河南卫视,http://gaox.vip:8888/rtp/239.49.8.197:6000
 黑龙江卫视,http://120.196.232.24:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
 湖北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
 湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
@@ -51,7 +51,6 @@ CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/322
 西藏卫视,http://222.175.159.226:808/hls/202371/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-河南卫视,http://gaox.vip:8888/rtp/239.49.8.197:6000
 山西卫视,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
 兵团卫视,http://222.175.159.226:808/hls/202376/index.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
