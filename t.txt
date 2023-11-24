@@ -188,7 +188,7 @@ X档案,http://49.235.110.121:9090/898/peda/dyu.php?id=20045465#https://epg.1121
 
 斗鱼直播,#genre#
 真实案件,http://epg.112114.xyz/douyu/8413092#http://maomao.kandiantv.cn/douyu1.php?id=8413092
-朱元璋,http://epg.112114.xyz/douyu/11649972#http://maomao.kandiantv.cn/douyu1.php?id=11649972
+朱元璋,http://49.235.110.121:9090/898/peda/dyu.php?id=11649972#http://epg.112114.xyz/douyu/11649972#http://maomao.kandiantv.cn/douyu1.php?id=11649972
 奇异事件,http://epg.112114.xyz/douyu/6725858#http://maomao.kandiantv.cn/douyu1.php?id=6725858
 神乐影片1,http://epg.112114.xyz/douyu/122402#http://maomao.kandiantv.cn/douyu1.php?id=6725858
 神乐影片2,http://epg.112114.xyz/douyu/85894#http://maomao.kandiantv.cn/douyu1.php?id=6725858
