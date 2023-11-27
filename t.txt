@@ -81,7 +81,6 @@ CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/322
 
 相声小品,#genre#
 赵本山小品,http://maomao.kandiantv.cn/douyu1.php?id=9817716#http://49.235.110.121:9090/898/peda/dyu.php?id=9817716
-陈佩斯,http://maomao.kandiantv.cn/douyu1.php?id=20985776#http://49.235.110.121:9090/898/peda/hy.php?id=20985776
 沈腾马丽,http://maomao.kandiantv.cn/douyu1.php?id=10153463#http://49.235.110.121:9090/898/peda/dyu.php?id=10153463
 影视轮播,#genre#
 士兵突击,http://49.235.110.121:9090/898/peda/hy.php?id=11342430
