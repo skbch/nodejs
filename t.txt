@@ -80,6 +80,9 @@ CCTV17农业农村,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/322
 济公,https://hnzy.bfvvs.com/play/DbDZxyel/index.m3u8
 
 相声小品,#genre#
+赵本山小品,http://epg.112114.xyz/douyu/9817716#http://maomao.kandiantv.cn/douyu1.php?id=9817716#http://49.235.110.121:9090/898/peda/dyu.php?id=9817716
+沈腾马丽,http://epg.112114.xyz/douyu/10153463#http://maomao.kandiantv.cn/douyu1.php?id=10153463#http://49.235.110.121:9090/898/peda/dyu.php?id=10153463
+
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
 幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
