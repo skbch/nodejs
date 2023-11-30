@@ -1627,7 +1627,7 @@
       "name": "影视",
       "url": "https://raw.nuaa.cf/skbch/nodejs/master/t.txt",
       "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "http://diyp.112114.xyz",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
