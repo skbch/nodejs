@@ -1625,7 +1625,7 @@
   "lives": [
     {
       "name": "影视",
-      "url": "https://raw.njuu.cf/skbch/nodejs/master/t.txt",
+      "url": "https://cdn.jsdelivr.net/gh/skbch/nodejs@master/t.txt",
       "type": 0,
       "epg": "http://diyp.112114.xyz",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
