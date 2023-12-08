@@ -2,17 +2,14 @@
 K直播,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6uyj4QUosO5G.mp4
 
 央视频道,#genre#
-CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
-CCTV-1,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?#http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV-2,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
 CCTV-2,http://120.196.232.33:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
 CCTV-2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
-CCTV-3,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
-CCTV-3,http://120.196.232.49:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
-CCTV-3,http://120.196.232.47:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
-CCTV-3,http://120.196.232.48:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV-3,http://cyz31.livehbindex.hbcatv.cn/live/50000020425540c3b4e7c41ca3eabb76.m3u8?bitrate=2300&pt=5
 CCTV-4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
