@@ -1,9 +1,9 @@
 康康直播,#genre#
 K直播,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6uyj4QUosO5G.mp4
 
-央视频道,#genre#
+
 央视,#genre#
-CCTV1,https://live.metshop.top/msp.php?id=cctv1
+CCTV1-1,https://live.metshop.top/msp.php?id=cctv1
 CCTV2,https://live.metshop.top/msp.php?id=cctv2
 CCTV3,https://live.metshop.top/msp.php?id=cctv3
 CCTV4,https://live.metshop.top/msp.php?id=cctv4
